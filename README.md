@@ -1,3 +1,3 @@
 # hello-world
 
-nothing to see here. go away.
+nothing to see here. please find your way.
